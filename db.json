@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "territory": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "Amen Gondor",
+      "kingdom": "Vacant"
+    },
+    {
+      "id": "Andrast",
+      "kingdom": "Vacant"
     }
   ],
   "profile": {
